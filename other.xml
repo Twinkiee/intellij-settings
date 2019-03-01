@@ -1,0 +1,58 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/Desktop/GoogleStyle.xml" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7633452" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="Singleton" />
+    <property name="INSPECTION_FILTER_HISTORY" value="javado" />
+    <property name="InstalledPluginsSearchHistory" value="lo&#10;lombo" />
+    <property name="JUnit.Splitter.Proportion" value="0.17495854" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PLUGIN_FILTER" value="lombok&#10;lomb&#10;wsd&#10;easyw&#10;easy" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.TopLevelElements" value="0.12402344" />
+    <property name="SearchEveryWhereHistory" value="/users&#10;routing&#10;app.component.ts&#10;ITerminal&#10;Context" />
+    <property name="SettingsSearchHistory" value="settings&#10;plugin&#10;font&#10;maven&#10;jre" />
+    <property name="TrendingPluginsSearchHistory" value="share&#10;ide s&#10;settings" />
+    <property name="TypoScriptNotificationStartsWithoutAd" value="86" />
+    <property name="TypoScriptWasPinged" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="482" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="dir.diff.panel.divider.location" value="221" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="exception.accepted.notices" value="182193a2" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/workspace/ln-batch-engine/fex/fex-core&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Users/antonio.cirasole/Desktop/workspace/ln-batch-engine/fex/fex-core/src/main/resources/mybatis&#10;C:/Users/antonio.cirasole/Desktop/workspace/ln-batch-engine/fex/fex-core/src/main/resources/compl/mybatis&#10;C:/Users/antonio.cirasole/Desktop/workspace/testFEX/target&#10;C:/Users/antonio.cirasole/Desktop/workspace/testFEX&#10;C:/Users/antonio.cirasole/Desktop/workspace/rpg-loc-scanner&#10;C:/Users/antonio.cirasole/Desktop/workspace/base100/java-prime/forex/pom.xml&#10;C:/Users/antonio.cirasole/Desktop/workspace/base100/java-prime/expressCore/pom.xml&#10;C:/Users/antonio.cirasole/Desktop/workspace/base100&#10;C:/Users/antonio.cirasole/Desktop/workspace/ln-batch-engine&#10;C:/Users/antonio.cirasole/Desktop/workspace/dockercompose-springboot-nginx&#10;C:/Users/antonio.cirasole/Desktop/workspace/spring-batch-admin-spring-boot&#10;C:/Users/antonio.cirasole/Desktop/workspace/ReSIRE-FOREX&#10;C:/Users/antonio.cirasole/OneDrive - Accenture/workspace/ReSIRE-FOREX/java-prime/forex/pom.xml&#10;C:/Users/antonio.cirasole/OneDrive - Accenture/workspace/ReSIRE-FOREX&#10;C:/Users/antonio.cirasole/Others/apache-maven-3.5.4/bin&#10;C:/Users/antonio.cirasole/OneDrive - Accenture/workspace/dockercompose-springboot-nginx&#10;C:/Users/antonio.cirasole/Desktop/workspace1/ln-batch-engine&#10;C:/Users/antonio.cirasole/Desktop/workspace1/ln-api&#10;C:/Users/antonio.cirasole/Desktop/forex-2&#10;C:/Users/antonio.cirasole/Desktop/conversion-02/com&#10;C:/Users/antonio.cirasole/Desktop/forex-2/expressCore-2&#10;C:/Users/antonio.cirasole/Desktop/rpg-loc-scanner&#10;C:/Users/antonio.cirasole/Desktop/expressCore-2&#10;C:/Users/antonio.cirasole/Desktop/workspace1/ho-api&#10;C:/Users/antonio.cirasole/Desktop/workspace1/ho-batch-engine&#10;C:/Users/antonio.cirasole/Desktop/workspace1/ln-batch-engine-PRJ50620801&#10;C:/Users/antonio.cirasole/Desktop&#10;C:/Users/antonio.cirasole/Desktop/resire-salvo/BE/app/fex/fex-london/target/fex-london-0.0.1-SNAPSHOT.jar" />
+    <property name="file.gist.reindex.count" value="66949" />
+    <property name="fileTypeChangedCounter" value="17" />
+    <property name="find.popup.splitter" value="0.38613862" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.lastUpdateCheck" value="1540568061499" />
+    <property name="last.imported.location" value="$USER_HOME$/Desktop/resire-salvo/BE/app" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/Others/gradle-4.10.1" />
+    <property name="lastTip" value="9" />
+    <property name="project.jdk.splitter" value="0.19685039" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="search.everywhere.max.popup.width" value="640" />
+    <property name="selected.color.option.type" value="JAVA_COMMA" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.39190283" />
+  </component>
+</application>

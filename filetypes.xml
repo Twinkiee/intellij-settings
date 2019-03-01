@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="rmanUtil" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="docker-build-command.txt" type="PLAIN_TEXT" />
+      <mapping pattern="init-db" type="PLAIN_TEXT" />
+      <mapping pattern="docker-build-command" type="PLAIN_TEXT" />
+      <mapping ext="dbf" type="PLAIN_TEXT" />
+      <mapping ext="ctl" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile*" type="Dockerfile" />
+      <mapping pattern="Dockerfile-compose" type="Dockerfile" />
+      <mapping pattern="wait-for" type="Bash" />
+    </extensionMap>
+  </component>
+</application>
