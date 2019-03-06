@@ -4,6 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="717" />
+    <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
